@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\bin\Debug\netcoreapp3.1\Task2.AverageNumber.exe
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\bin\Debug\netcoreapp3.1\Task2.AverageNumber.deps.json
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\bin\Debug\netcoreapp3.1\Task2.AverageNumber.runtimeconfig.json
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\bin\Debug\netcoreapp3.1\Task2.AverageNumber.runtimeconfig.dev.json
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\bin\Debug\netcoreapp3.1\Task2.AverageNumber.dll
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\bin\Debug\netcoreapp3.1\Task2.AverageNumber.pdb
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\obj\Debug\netcoreapp3.1\Task2.AverageNumber.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\obj\Debug\netcoreapp3.1\Task2.AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\obj\Debug\netcoreapp3.1\Task2.AverageNumber.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\obj\Debug\netcoreapp3.1\Task2.AverageNumber.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\obj\Debug\netcoreapp3.1\Task2.AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\obj\Debug\netcoreapp3.1\Task2.AverageNumber.dll
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\obj\Debug\netcoreapp3.1\Task2.AverageNumber.pdb
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task2.AverageNumber\obj\Debug\netcoreapp3.1\Task2.AverageNumber.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\bin\Debug\netcoreapp3.1\Task1.RealCalculator.exe
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\bin\Debug\netcoreapp3.1\Task1.RealCalculator.deps.json
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\bin\Debug\netcoreapp3.1\Task1.RealCalculator.runtimeconfig.json
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\bin\Debug\netcoreapp3.1\Task1.RealCalculator.runtimeconfig.dev.json
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\bin\Debug\netcoreapp3.1\Task1.RealCalculator.dll
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\bin\Debug\netcoreapp3.1\Task1.RealCalculator.pdb
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\obj\Debug\netcoreapp3.1\Task1.RealCalculator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\obj\Debug\netcoreapp3.1\Task1.RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\obj\Debug\netcoreapp3.1\Task1.RealCalculator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\obj\Debug\netcoreapp3.1\Task1.RealCalculator.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\obj\Debug\netcoreapp3.1\Task1.RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\obj\Debug\netcoreapp3.1\Task1.RealCalculator.dll
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\obj\Debug\netcoreapp3.1\Task1.RealCalculator.pdb
+C:\Users\user\Desktop\C#\SEDC.Homework.Class02\Task1.RealCalculator\obj\Debug\netcoreapp3.1\Task1.RealCalculator.genruntimeconfig.cache
